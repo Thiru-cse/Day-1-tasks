@@ -1,7 +1,6 @@
-Question.1
-Answer:
+1. Document
 
-Question.2
+2. Window Object
 Answer:
 
 Question.3
